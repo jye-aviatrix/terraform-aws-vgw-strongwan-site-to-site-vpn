@@ -30,7 +30,7 @@ output "strongwan" {
 ```
 
 ## Output
-```json
+```
 strongwan = {
   "cloud_test_ec2" = {
     "instance_id" = "i-00baaff84299eab88"
